@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setup(
   name = 'rbw',
   packages = ['RandomBirthdayWish'],
-  version = '1.0',
+  version = '1283',
   license= 'MIT',
   description = "Random Birthday Wish!",
   author = 'termit',
