@@ -4,7 +4,7 @@ RandomBirthdayWish or just rbw gives you some random Birthday wish! You just nee
 **Usage**
 
 ```
-from rbw import wish
+from rbwish import wish
 
 wish()
 ```
