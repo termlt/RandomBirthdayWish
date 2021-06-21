@@ -4,8 +4,8 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-  name = 'rbw',
-  packages = ['RandomBirthdayWish'],
+  name = 'rbwish',
+  packages = ['rbwish'],
   version = '1283',
   license= 'MIT',
   description = "Random Birthday Wish!",
