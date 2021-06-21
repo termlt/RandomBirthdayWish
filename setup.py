@@ -10,6 +10,7 @@ setup(
   description = "Random Birthday Wish!",
   author = 'termit',
   author_email = 'anoyan2014@yandex.ru',
+  download_url = 'https://github.com/termlt/RandomBirthdayWish/archive/refs/tags/v_01.tar.gz',
   long_description = long_description,
   long_description_content_type = 'text/markdown',
   url = 'https://github.com/termlt/RandomBirthdayWish',
