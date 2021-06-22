@@ -1,1 +1,1 @@
-import rbwish
+from rbwish import *
