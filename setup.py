@@ -1,12 +1,12 @@
-from setuptools import setup, Extension
+from setuptools import setuptools, setup, Extension
 
 with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
   name = 'rbwish',
-  packages = ['rbwish'],
-  version = '666',
+  packages = setuptools.find_packages(),
+  version = '777',
   license= 'MIT',
   description = "Random Birthday Wish!",
   author = 'termit',
