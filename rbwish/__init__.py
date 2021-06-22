@@ -1,1 +1,1 @@
-from rbwish import wish
+import rbwish
