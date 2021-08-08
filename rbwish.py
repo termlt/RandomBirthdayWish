@@ -15,11 +15,11 @@ def wish():
 	div = form.find('div').get_text()
 
 	if 'BirthdayMessages.com' in div:
-		return 'Sorry, some error occurred. Try again!'
+		print('Sorry, some error occurred. Try again!')
 
 	else:	
 		split = div.split('Category:', 1)[0]
 		replace = split.replace(';', ',')
 		wish = replace.replace('-', ' -')
 
-		return wish
+		print(wish)
