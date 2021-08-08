@@ -3,6 +3,7 @@ RandomBirthdayWish or just rbw gives you some random Birthday wish! You just nee
 
 **Usage**
 Download requirements.txt and rbwish.py into the same directory as your main python file.
+
 After that`
 
 ```
