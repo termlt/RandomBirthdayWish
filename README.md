@@ -1,5 +1,5 @@
 # RandomBirthdayWish
-RandomBirthdayWish or just rbw gives you some random Birthday wish! You just need to copy-paste it.
+RandomBirthdayWish or just rbwish gives you some random Birthday wish! You just need to copy-paste it.
 
 **Usage**
 
