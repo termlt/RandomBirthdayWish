@@ -1,7 +1,6 @@
 '''
 NOTE: If you got a wish message with some letters: XX or YY or Z
-That means that you need to replace them with some age info of the person
-you are sending this message to.
+That means that you need to replace them with some age info of the person you are sending this message to.
 '''
 
 
