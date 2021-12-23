@@ -3,12 +3,12 @@ RandomBirthdayWish or just rbwish gives you a random Birthday wish! You just nee
 
 **Usage**
 
-Download **requirements.txt** and **rbwish.py** into the same directory as your main python file.
+Download **rbwish.py** into the same directory as your main python file.
 
 After that`
 
 ```
-import rbwish
+from rbwish import wish
 
-rbwish.wish()
+print(wish())
 ```
